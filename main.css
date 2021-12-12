@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+
+body{
+    background-color: lightsteelblue;
+    border-style: double;
+    margin: 15;
+    padding: 70px;
+}
+
+.div1 {
+    font-size: x-large;
+    
+}
+
+#div2 {
+ height: 15%;  
+ width: 35; 
+ border-style:groove;
+ border-color: magenta;
+ margin: 30px;
+ padding: 50px;
+ font-size: xx-large;
+}
